@@ -23,8 +23,8 @@ https://ritalab.sakura.ne.jp/kadai07/index.php
  
 - 課題アイディア
 
-
-  JSの課題メモ帳アプリ
+  JSの課題03のメモ帳アプリで実現できなかったことがPHPだったらできそうな気がしたのでそこからスタートしました。
+  
 
 - PHP
 

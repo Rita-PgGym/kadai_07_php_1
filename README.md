@@ -21,12 +21,13 @@ https://ritalab.sakura.ne.jp/kadai07/index.php
   全体レイアウトを書き出して、今回実装す部分について、HTMLでブロック要素ごとにグループを考えてから、cssファイルの編集しました。
 
  
--課題アイディア
+- 課題アイディア
 
-  JSの課題メモ帳アプリ（https://rita-pggym.github.io/kadai03_memo/）のアイディアがもとになっています。
+  JSの課題メモ帳アプリ（https://rita-pggym.github.io/kadai03_memo/）のアイディアがもとになっています。 
 
-  JSで実現できなかったことがPHPでやるとでできそうな気がする、と思ってここをスタートにしました。
- 
+
+  JSで実現できなかったことがPHPでやるとでできそうな気がする、と思ってここをスタートにしました。 
+
 - PHP
 
   講義動画を見ながら、最初は、index.php、write.php、read.phpの3つのPHPファイルで課題を制作していました。

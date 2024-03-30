@@ -23,7 +23,11 @@ https://ritalab.sakura.ne.jp/kadai07/index.php
  
 - 課題アイディア
 
-  JSの課題メモ帳アプリ（https://rita-pggym.github.io/kadai03_memo/）のアイディアがもとになっています。 
+
+  JSの課題メモ帳アプリでうまく実現できなかったことがPHPでやるとでできそうな気がする、と思ってここをスタートにしました。 
+
+
+  （https://rita-pggym.github.io/kadai03_memo/）
 
 
   JSで実現できなかったことがPHPでやるとでできそうな気がする、と思ってここをスタートにしました。 

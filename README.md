@@ -28,9 +28,7 @@ https://ritalab.sakura.ne.jp/kadai07/index.php
 
 
   （https://rita-pggym.github.io/kadai03_memo/）
-
-
-  JSで実現できなかったことがPHPでやるとでできそうな気がする、と思ってここをスタートにしました。 
+ 
 
 - PHP
 
